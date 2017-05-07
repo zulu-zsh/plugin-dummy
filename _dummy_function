@@ -1,0 +1,7 @@
+#!/usr/bin/env zsh
+
+function _dummy_function() {
+  echo 'Nothing to see here'
+}
+
+_dummy_function "$@"
